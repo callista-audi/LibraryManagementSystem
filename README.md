@@ -35,6 +35,7 @@ Sistem Manajemen Perpustakaan berbasis Java OOP dengan fitur pencarian buku berb
 
 ## Project Structure
 
+
 LibrarySystem/
 │
 ├── models/
@@ -54,11 +55,12 @@ LibrarySystem/
 ---
 
 ## How to Run
-
-1. **Compile** semua file:
+**Compile** semua file:
    ```bash
    javac -d . Main.java models/*.java system/*.java
    java Main
+
+
 
    ===== LIBRARY MENU =====
 1. Show All Books
