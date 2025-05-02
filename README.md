@@ -33,24 +33,6 @@ Sistem Manajemen Perpustakaan berbasis Java OOP dengan fitur pencarian buku berb
 
 ---
 
-## Project Structure
-
-
-LibrarySystem/
-│
-├── models/
-│ ├── Book.java # Representasi data buku
-│ └── User.java # Representasi data user
-│
-├── system/
-│ ├── BookManager.java # Manajemen buku
-│ ├── SearchTree.java # Pencarian buku (BST)
-│ ├── BorrowQueue.java # Antrian peminjaman (Queue)
-│ ├── ReturnHistory.java # Riwayat pengembalian (Stack)
-│ └── UserManager.java # Manajemen user (Binary Tree)
-│
-└── Main.java # Menu utama interaktif
-
 
 ---
 
