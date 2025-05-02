@@ -1,0 +1,10 @@
+1|Java Programming|Programming
+2|Python Basics|Programming
+3|Data Structures|Computer Science
+4|Algorithms|Computer Science
+5|Operating Systems|Computer Science
+6|Database Systems|Information Systems
+7|Software Engineering|Engineering
+8|Web Development|Programming
+9|Computer Networks|Computer Science
+10|Artificial Intelligence|AI
